@@ -2,4 +2,4 @@ Ok, it's not really better. There's a reason raganwald wrote andand the way he d
 
 Example:
 
-object.method.method.garbage.methoddoesnotexist.foo.method #=> nil
+object.andand.method.method.garbage.methoddoesnotexist.foo.method #=> nil
